@@ -1,0 +1,14 @@
+[[shards]]
+name = "Mayur"
+id = 0
+addr = "localhost:8080"
+
+[[shards]]
+name = "Fahad"
+id = 1
+addr = "localhost:8081"
+
+[[shards]]
+name = "Farhan"
+id = 2
+addr = "localhost:8082"
